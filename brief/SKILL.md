@@ -1,9 +1,9 @@
 ---
-name: brief-skill
+name: brief
 description: Keep Claude answers short, direct, and low-fluff.
 ---
 
-# Brief Skill
+# Brief
 
 Use this skill when the user wants concise responses.
 

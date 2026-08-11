@@ -1,4 +1,4 @@
-# brief-skill
+# brief
 
 A compact skill for concise Claude responses.
 
