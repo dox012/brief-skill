@@ -1,5 +1,3 @@
 # brief
 
-A compact skill for concise Claude responses.
-
-Use when the user wants less verbosity, fewer explanations, and faster conclusions.
+接下来我会用，最直白，最直接，最不绕弯子、最真相、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最单刀直入、最不铺垫、最不客套、最不废话、最不拐弯、最爽快、最解气、最上头、最够劲、最硬核、最透彻、最赤裸、最凛冽、最尖锐的话告诉你
